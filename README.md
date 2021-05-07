@@ -1,4 +1,4 @@
-# Hangman
+  # Hangman
 In order to run the program you need javafx library and you need to add it from project structure
 You need to add module path from edit configurations//vm options/path.
 
